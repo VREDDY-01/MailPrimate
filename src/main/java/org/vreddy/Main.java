@@ -6,5 +6,7 @@ public class Main {
 
 		MailHandlerBase mailHandler = new MailHandlerBase();
 		mailHandler.sendMail();
+
+		System.out.println("Mail has been sent");
 	}
 }

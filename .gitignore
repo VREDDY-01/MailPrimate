@@ -11,6 +11,7 @@ target/
 *.iws
 *.iml
 *.ipr
+.src/main/java/org/vreddy/MailConstants.java
 
 ### Eclipse ###
 .apt_generated
@@ -36,3 +37,4 @@ build/
 
 ### Mac OS ###
 .DS_Store
+src/main/java/org/vreddy/MailConstants.java
